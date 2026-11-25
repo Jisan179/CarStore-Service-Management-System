@@ -31,9 +31,11 @@ A Windows desktop application for running a car showroom and its service worksho
 
 A full tutorial that goes through every page and button, using demo data.
 
-[![Watch the full tutorial](docs/demo/tutorial-poster.png)](docs/demo/CarStore_Full_Tutorial.mp4)
+[![Watch the full tutorial on YouTube](docs/demo/tutorial-poster.png)](https://youtu.be/cDhz105oYn8)
 
-**▶ [Watch the full tutorial](docs/demo/CarStore_Full_Tutorial.mp4)** · 16 min 26 s · 1080p · Bengali captions · no audio · about 70 MB
+**▶ Watch on YouTube:** https://youtu.be/cDhz105oYn8
+
+16 min 18 s · Bengali captions · no audio · [Download the MP4](docs/demo/CarStore_Full_Tutorial.mp4) (1080p, about 70 MB)
 
 It covers every button and checkbox on the 16 forms, with the pop-up messages, the screens that open, the status filters, receipt previews and report data.
 
@@ -65,7 +67,6 @@ It covers every button and checkbox on the 16 forms, with the pop-up messages, t
 | 12:27 | Admin: user management |
 | 14:04 | Admin: service catalog |
 | 15:17 | Admin: sales report |
-| 16:18 | Summary |
 
 ---
 
